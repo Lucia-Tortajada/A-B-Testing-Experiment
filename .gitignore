@@ -3,3 +3,4 @@
 .streamlit/secrets.toml
 gspread_credentials.json
 gspread_credentials.json
+.streamlit/secrets.toml
